@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9d79f398_b0019bb3",
+        "filename": "readme.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1006171
+      },
+      "writtenOn": "2019-08-08T19:56:14Z",
+      "side": 1,
+      "message": "ololo",
+      "range": {
+        "startLine": 2,
+        "startChar": 1,
+        "endLine": 2,
+        "endChar": 2
+      },
+      "revId": "98d1c5758449608a5b96bf1e91b9877e335b46d7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "937e4b70_a7d1ee5a",
+        "filename": "readme.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1006171
+      },
+      "writtenOn": "2019-08-08T19:56:14Z",
+      "side": 1,
+      "message": "tralala",
+      "range": {
+        "startLine": 4,
+        "startChar": 1,
+        "endLine": 4,
+        "endChar": 3
+      },
+      "revId": "98d1c5758449608a5b96bf1e91b9877e335b46d7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
